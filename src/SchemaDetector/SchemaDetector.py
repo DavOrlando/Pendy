@@ -21,10 +21,9 @@ class SchemaDetector(object):
         self.keywords = set()
     
     def setInformationKeyword(self,keywordsPath):
-        fileSpecifiche = open(keywordsPath,"r")       
-        specifiche = fileSpecifiche.read().splitlines()
-        fileSpecifiche.close()
-        self.keywords = set(specifiche)
+        with open(keywordsPath) as keywordsFile: 
+            self.keywords = set(keywordsFile.read().splitlines())
+        
 
         
         
