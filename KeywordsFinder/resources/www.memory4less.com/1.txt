@@ -1,0 +1,22 @@
+Manufacturer Part Number	M9177LL/A
+Brand Name	Apple
+Product Type	LCD Monitor
+Technical Information
+Screen Size	20"
+Screen Mode	WSXGA+
+Response Time	16 ms
+Video
+Maximum Resolution	1680 x 1050
+Color Supported	16.7 Million Colors
+Contrast Ratio	400:1
+Brightness	250 Nit
+Interfaces/Ports
+DVI	Yes
+Built-in Devices
+Built-in Devices	USB Hub
+Physical Characteristics
+Color	Silver
+Height	16.1"
+Width	18.5"
+Depth	6.8"
+Weight (Approximate)	14.50 lb

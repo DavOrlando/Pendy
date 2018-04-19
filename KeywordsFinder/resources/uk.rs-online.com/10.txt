@@ -1,0 +1,26 @@
+Diagonal Display Size	2.4in
+Interface Type	Parallel, RGB
+Resolution	240 x 320pixels
+Touch Screen	Yes
+Viewing Area Dimensions	36.72 x 48.96mm
+Supply Voltage	-0.3 → +4.6 V dc
+Touch Screen Type	Resistive
+Backlight Type	LED
+Display Mode	Transmissive
+AC or DC Input Voltage	Dc
+Dimensions	59.46 x 42.72 x 3.8mm
+Display Matrix Technology	TFT
+Minimum Operating Temperature	-20°C
+Maximum Operating Temperature	+70°C
+Graphics Array Type	QVGA
+Brightness	200cd/m²
+Height	59.46mm
+Contrast Ratio	350:1
+Operating Temperature Range	-20 → +70°C
+Viewing Area Height	36.72mm
+Width	42.72mm
+Response Time	20ms
+Viewing Area Width	48.96mm
+Aspect Ratio	4:3
+Number of Colours	262,144
+Depth	3.8mm

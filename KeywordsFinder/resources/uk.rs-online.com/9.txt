@@ -1,0 +1,20 @@
+Diagonal Display Size	4.3in
+Interface Type	18 Data Bus
+Resolution	480 x 272pixels
+Touch Screen	No
+Viewing Area Dimensions	95.04 x 53.86mm
+Touch Screen Type	None
+Supply Voltage	17 V
+Backlight Type	LED
+Display Mode	Transmissive
+Display Matrix Technology	TFT
+Minimum Operating Temperature	-20°C
+Maximum Operating Temperature	+70°C
+Power Supply Included	Yes
+Number of Colours	262,144
+Brightness	220cd/m²
+Operating Temperature Range	-20 → +70°C
+Contrast Ratio	450:1
+Height	70mm
+Response Time	30ms
+Width	116mm

@@ -1,0 +1,45 @@
+General
+Native Resolution	Full HD (1080p) 1920 x 1080 at 60 Hz
+Brightness	250 cd/m²
+Aspect Ratio	16:9
+Display Type	LED-backlit LCD monitor / TFT active matrix
+Diagonal Size	21.5"
+Viewable Size	21.5"
+Pixel Pitch	0.248 mm
+Contrast Ratio	1000:1 / 40000000:1 (dynamic)
+Colour Support	16.7 million colours
+Response Time	5 ms
+Vertical Refresh Rate	75 Hz
+Horizontal Refresh Rate	83 kHz
+Horizontal Viewing Angle	170
+Vertical Viewing Angle	160
+Backlight Technology	LED backlight
+Features	HDCP
+Dimensions (WxDxH)	51.28 cm x 18.5 cm x 36.74 cm
+Weight	3.12 kg
+Connectivity
+Interfaces	DVI-D (HDCP) ¦ VGA ¦ Audio line-in
+Power
+Voltage Required	AC 120/230 V (50/60 Hz)
+Power Consumption Operational	24 Watt
+Power Consumption Stand by / Sleep	1.5 Watt
+Power Consumption Stand by	0.5 Watt
+Power Consumption Sleep	0.5 Watt
+Environmental Standards
+ENERGY STAR Qualified	Yes
+ENERGY STAR Certified	Yes
+Audio
+Type	Speakers - stereo
+Output Power / Channel	1.5 Watt
+Mechanical
+Display Position Adjustments	Tilt
+Tilt Angle	-3/+17
+Flat Panel Mount Interface	100 x 100 mm
+Miscellaneous
+Features	Security lock slot (cable lock sold separately)
+Cables Included	1 x VGA cable - 1.5 m ¦ 1 x audio cable - 1.5 m
+Compliant Standards	UL, GOST, cUL, CB, CCC, FCC
+Environmental Parameters
+Min Operating Temperature	5 °C
+Max Operating Temperature	35 °C
+Humidity Range Operating	20 - 85% (non-condensing)

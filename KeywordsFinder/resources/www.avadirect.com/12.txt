@@ -1,0 +1,70 @@
+ROG Swift PG348Q Gaming monitor
+34-inch Ultra-wide QHD (3440 x 1440) curved monitor with a 21:9 aspect ratio for panoramic gaming
+NVIDIA G-SYNC display technology and a 100Hz refresh rate for incredibly-smooth and fast gaming visuals
+New ROG Armor Titanium and Plasma Copper color scheme and built-in LED effects
+ASUS-exclusive Ultra-Low Blue Light, Flicker-Free, GamePlus, and GameVisual technologies provide a tactical assistance on your command
+Display	Panel Size : Ultra-wide Screen 34” (86.72cm) 21:9
+Color Saturation : 100%(sRGB) 
+Panel Backlight / Type : In-Plane Switching
+True Resolution : 3440x1440 *
+Display Surface Non-glare
+Pixel Pitch : 0.2325mm
+Brightness(Max) : 300 cd/m2
+Contrast Ratio (Max) : 1000:1
+Viewing Angle (CR≧10) : 178°(H)/178°(V)
+Response Time : 5ms (Gray to Gray)
+Display Colors : 1073.7M (10bit)
+Flicker free 
+Curved Panel : 3800R
+Video Feature	Trace Free Technology : Yes
+Color Temperature Selection : 4 Modes
+GamePlus(modes) : Yes (Crosshair/Timer/FPS Counter)
+Low Blue Light : Yes
+HDCP support : Yes
+GameVisual :6 Modes(Scenery/Racing/Cinema/RTS/RPG/FPS/sRGB Modes)
+Audio Features	Stereo Speakers : 2W x 2 Stereo RMS
+Convenient Hotkey	GamePlus
+5-way OSD Navigation Joystick
+Turbo key
+I/O Ports	Signal Input : HDMI, DisplayPort
+Earphone jack : 3.5mm Mini-Jack 
+USB Port(s) : 3.0x4, 1 x upstream
+Signal Frequency	Digital Signal Frequency : Display port 73~88kHz (H) / 30~100Hz (V)
+Power Consumption	Power On: <100W*
+Power Saving/Off:0.5W
+Voltage: 100-240V, 50/60Hz
+Mechanical Design	Chassis Colors : Plasma Copper + Armor Titanium
+Tilt : +20°~-5°
+Swivel : +50°~-50°
+Height Adjustment : 0~115 mm
+VESA Wall Mounting : 100x100mm
+Frameless Design : Yes
+Quick Release Stand Design : Yes
+Security	Kensington lock
+Dimensions	Phys. Dimension with Stand(WxHxD): 829 x 558 x 297 mm
+Phys. Dimension without Stand(WxHxD): 829 x 323 x 109 mm(For VESA Wall Mount)
+Box Dimension (WxHxD): 320 x 508 x 942 mm
+Weight	Net Weight(Esti.): 11.2kg
+Gross Weight(Esti.):15.5kg
+Accessories	Power cord 
+Power adapter
+DisplayPort cable 
+USB 3.0 cable
+Quick start guide
+HDMI cable 
+Support CD
+Warranty Card
+Compliance and Standards	Energy Star®, BSMI, CB, CCC, CE, CEL level 2, ErP, FCC, J-MOSS, KCC, PSE, RoHS, UL/cUL, VCCI, WEEE, WHQL (Windows 10, Windows 8.1, Windows 7), RCM, TUV Flicker-free , eStandby, TUV Low Blue Light, CU(EAC)
+Note	1) Refresh Rate
+DisplayPort: 3440x1440(up to 100Hz*)
+HDMI: 3440x1440(50Hz)
+
+Note: For smoother gameplay, G-Sync requires a GeForce 
+GTX 980Ti and above to overclock the refresh rate 
+up to 100Hz
+
+2) Signal Frequency
+DisplayPort: 73~88kHz(H)/30~100Hz(V)
+HDMI: 30~140kHz(H)/24~60Hz(V)
+
+3) Power Consumption is based on EnergyStar standard

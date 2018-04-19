@@ -1,0 +1,16 @@
+Diagonal Display Size	5.7in
+Viewing Area Dimensions	115.2 x 86.4mm
+Display Technology	LCD
+Maximum Resolution	640 x 480pixels
+Graphics Array Type	QVGA
+Number of Colours	262 K
+Interface Type	VGA
+Touch Screen	Yes
+Touch Screen Type	Resistive
+Mounting Type	Open Frame
+Brightness	700cd/m²
+Operating Temperature Range	-30 → +85°C
+Maximum Operating Temperature	+85°C
+Minimum Operating Temperature	-30°C
+Viewing Area Height	86.4mm
+Viewing Area Width	115.2mm

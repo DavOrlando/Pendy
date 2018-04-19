@@ -1,0 +1,16 @@
+
+Model
+Manufacturer	Apple
+Manufacturer Part #	A1082
+Performance
+Product Type	LCD Display
+Screen Size	23 inches
+Maximum Resolution	1920 x 1200
+Maximum Color Depth	24-bit
+Contrast Ratio	700:1
+Aspect Ratio	16:10
+Response Time	14 ms
+Horizontal Viewing Angle	178 degrees
+Vertical Viewing Angle	178 degrees
+Connectors/Ports	DVI-I
+

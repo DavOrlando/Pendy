@@ -1,0 +1,49 @@
+General
+Pixel Per Inch	92
+Native Resolution	Full HD (1080p) 1920 x 1080 at 60 Hz
+Brightness	250 cd/m²
+Aspect Ratio	16:9
+Display Type	LED-backlit LCD monitor / TFT active matrix
+Energy Class	Class A
+Energy Consumption per Year	34 kWh
+Power Consumption (On mode)	23 W
+Diagonal Size	24"
+Panel Type	TN
+Pixel Pitch	0.276 mm
+Contrast Ratio	100000000:1 (dynamic)
+Colour Support	16.7 million colours
+Response Time	2 ms (gray-to-gray)
+Vertical Refresh Rate	55 - 75 Hz
+Horizontal Refresh Rate	30 - 80 kHz
+Horizontal Viewing Angle	176
+Vertical Viewing Angle	170
+Backlight Technology	LED backlight
+Features	HDCP, Acer EcoDisplay, Acer Adaptive Contrast Management (ACM), 72% NTSC colour gamut, ComfyView
+Colour	Glossy black
+Dimensions (WxDxH)	56.7 cm x 20.68 cm x 42.22 cm
+Weight	3.57 kg
+Power
+Power Consumption Operational	20.9 Watt
+Power Consumption Stand by	0.45 Watt
+Power Supply	Internal
+Voltage Required	AC 120/230 V
+Power Consumption Sleep	0.35 Watt
+On / Off Switch	No
+Miscellaneous
+MTBF	30,000 hours
+Cables Included	1 x VGA cable
+Compatible with Windows 7	"Compatible with Windows 7" software and devices carry Microsofts assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.
+Compliant Standards	MPR II
+Localisation	EMEA
+Manufacturer Warranty
+Service & Support Details	Limited warranty - 2 years - carry-in
+Service & Support	Limited warranty - 2 years - carry-in
+Connectivity
+Interfaces	DVI (HDCP) ¦ VGA ¦ HDMI
+Environmental Standards
+ENERGY STAR Qualified	Yes
+ENERGY STAR Certified	Yes
+Mechanical
+Display Position Adjustments	Tilt
+Tilt Angle	-5/+25
+Flat Panel Mount Interface	100 x 100 mm

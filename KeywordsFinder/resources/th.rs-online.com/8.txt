@@ -1,0 +1,21 @@
+Diagonal Display Size	12.1in
+Display Technology	LCD
+Maximum Resolution	800 x 600pixels
+Graphics Array Type	SVGA
+Number of Colours	262 K
+Contrast Ratio	500:1
+Response Time	35ms
+Interface Type	VGA
+Touch Screen	Yes
+Touch Screen Type	Resistive
+External Dimensions	355 x 269 x 49.36mm
+Mounting Type	Open Frame
+Brightness	400cd/m²
+External Height	269mm
+Maximum Operating Temperature	+65°C
+External Width	355mm
+Operating Temperature Range	-10 → +65°C
+External Depth	49.4mm
+Minimum Operating Temperature	-10°C
+Series	ES-21
+

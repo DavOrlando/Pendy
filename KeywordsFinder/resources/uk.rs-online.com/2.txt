@@ -1,0 +1,15 @@
+Diagonal Display Size	10.4in
+Viewing Area Dimensions	211.2 x 158.4mm
+Display Technology	LCD
+Maximum Resolution	800 x 600pixels
+Graphics Array Type	SVGA
+Number of Colours	16.7 Million
+Touch Screen	Yes
+Touch Screen Type	Resistive
+Mounting Type	Open Frame
+Brightness	400cd/m²
+Operating Temperature Range	-30 → +85°C
+Maximum Operating Temperature	+85°C
+Viewing Area Width	211.2mm
+Minimum Operating Temperature	-30°C
+Viewing Area Height	158.4mm

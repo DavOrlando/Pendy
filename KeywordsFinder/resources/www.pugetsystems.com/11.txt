@@ -1,0 +1,22 @@
+Screen Type 	IPS LCD
+Backlight Type 	LED
+Screen Size 	23 Inches
+Aspect Ratio 	Widescreen (16:9)
+Native Resolution 	1920x1080
+Contrast Ratio 	100,000,000 :1
+Response Time 	5 ms
+Pixel Pitch 	.3114 mm (0.0 in)
+Max Brightness 	300 cd/m^2
+VESA Mounting 	100x100mm
+VGA 	Yes
+DVI 	Yes
+HDMI 	Yes
+DisplayPort 	No
+HDCP Compliant 	Yes
+Component 	No
+Built-in Speakers 	Yes
+Built-in Webcam 	No
+Width 	546.1 mm (21.5 in)
+Height 	454.66 mm (17.9 in)
+Depth 	48.26 mm (1.9 in)
+

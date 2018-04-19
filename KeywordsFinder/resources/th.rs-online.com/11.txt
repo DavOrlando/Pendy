@@ -1,0 +1,19 @@
+Diagonal Display Size	12.1in
+Display Technology	LCD
+Maximum Resolution	800 x 600pixels
+Graphics Array Type	SVGA
+Number of Colours	262 K
+Contrast Ratio	500:1
+Response Time	35ms
+Interface Type	VGA
+Touch Screen	Yes
+Touch Screen Type	Resistive
+External Dimensions	341 x 261 x 58.7mm
+Mounting Type	Panel Mount
+Brightness	400cd/m²
+External Depth	58.7mm
+Minimum Operating Temperature	-10°C
+External Height	261mm
+Maximum Operating Temperature	+65°C
+Operating Temperature Range	-10 → +65°C
+External Width	341mm

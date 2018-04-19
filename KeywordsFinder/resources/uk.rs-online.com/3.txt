@@ -1,0 +1,20 @@
+Diagonal Display Size	7in
+Interface Type	18 Data Bus
+Resolution	800 x 480pixels
+Touch Screen	Yes
+Supply Voltage	9.6 V
+Touch Screen Type	Resistive
+Backlight Type	LED
+Display Mode	Transmissive
+Display Matrix Technology	TFT
+Minimum Operating Temperature	-20°C
+Maximum Operating Temperature	+70°C
+Graphics Array Type	WVGA
+Aspect Ratio	16:9
+Contrast Ratio	500:1
+Height	103mm
+Width	175mm
+Power Supply Included	Yes
+Response Time	30ms
+Operating Temperature Range	-20 → +70°C
+Number of Colours	16,777,216

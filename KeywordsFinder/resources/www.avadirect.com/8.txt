@@ -1,0 +1,33 @@
+InterView 1700
+
+
+Specifications:
+
+Dual 17” wide screen displays
+Display automatically rotates image when the monitor is flipped
+Built in 1.3MP webcam
+Built in microphone
+Built in USB 2.0 hub (3 ports)
+Specifications:
+ 
+Resolution: WXGA+ (1440x900) x 2
+Pixel Pitch: 0.255mm x 0.255mm
+Contrast Ratio: 500:1
+Viewing Angle: 45° (H) / 20° (V - Upper) 35° (V - Lower)
+Brightness: 220 CD/m
+Response Time: 8ms
+Dimensions / Weight:
+ 
+Bezel Open:
+34.27" x 15.8" x 7.5"
+870.47 x 401.53 x 191.11 mm
+Bezel Closed:
+15.39" x 16.67" x 19.39"
+390.97 x 423.82 x 492.55 mm
+Net Weight:
+17.46 lbs
+7.492 kg
+Gross Weight:
+23.94 lbs
+10.86 kg
+

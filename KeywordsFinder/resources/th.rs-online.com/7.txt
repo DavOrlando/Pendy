@@ -1,0 +1,20 @@
+Diagonal Display Size	15in
+Display Technology	LCD
+Maximum Resolution	1024 x 786pixels
+Graphics Array Type	XGA
+Number of Colours	262 K
+Contrast Ratio	500:1
+Response Time	12ms
+Interface Type	VGA
+Touch Screen	Yes
+Touch Screen Type	Resistive
+External Dimensions	398 x 303 x 55mm
+Mounting Type	Open Frame
+Brightness	350cd/m²
+External Height	303mm
+Series	ES-21
+Minimum Operating Temperature	0°C
+External Depth	55mm
+Operating Temperature Range	0 → +50°C
+Maximum Operating Temperature	+50°C
+External Width	398mm

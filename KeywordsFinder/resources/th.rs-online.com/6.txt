@@ -1,0 +1,20 @@
+Diagonal Display Size	17in
+Display Technology	LCD
+Maximum Resolution	1280 x 1024pixels
+Graphics Array Type	SXGA
+Number of Colours	16.7 Million
+Contrast Ratio	500:1
+Response Time	8ms
+Interface Type	VGA
+Touch Screen	Yes
+Touch Screen Type	Resistive
+External Dimensions	430.5 x 347.8 x 59.5mm
+Mounting Type	Panel Mount
+Brightness	300cd/m²
+Series	ES-22
+External Height	347.8mm
+External Depth	59.5mm
+Minimum Operating Temperature	0°C
+Operating Temperature Range	0 → +50°C
+Maximum Operating Temperature	+50°C
+External Width	430.5mm

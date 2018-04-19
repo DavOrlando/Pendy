@@ -1,0 +1,20 @@
+Screen Type 	LCD
+Backlight Type 	LED
+Screen Size 	28 Inches
+Aspect Ratio 	Widescreen (16:9)
+Native Resolution 	3840x2160
+Response Time 	1 ms
+Pixel Pitch 	.16 mm (0.0 in)
+Dynamic Contrast Ratio 	100000000 :1
+Max Brightness 	300 cd/m^2
+Display Colors 	1073.7M (10bit)
+VESA Mounting 	100x100mm
+DVI 	No
+HDMI 	Yes
+DisplayPort 	Yes
+HDCP Compliant 	Yes
+Built-in Speakers 	Yes
+Built-in Webcam 	No
+Width 	660 mm (26.0 in)
+Height 	414 mm (16.3 in)
+Depth 	220.06 mm (8.7 in)

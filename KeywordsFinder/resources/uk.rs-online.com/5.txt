@@ -1,0 +1,23 @@
+Diagonal Display Size	10.4in
+Interface Type	LVDS
+Resolution	800 x 600pixels
+Touch Screen	Yes
+Touch Screen Type	Resistive
+Supply Voltage	4 V
+Backlight Type	LED
+Display Mode	Transmissive
+Dimensions	243 x 13 x 185.1mm
+Display Matrix Technology	TFT
+Minimum Operating Temperature	-20°C
+Maximum Operating Temperature	+70°C
+Graphics Array Type	SVGA
+Width	243mm
+Power Supply Included	Yes
+Brightness	360cd/m²
+Height	185.1mm
+Contrast Ratio	800:1
+Response Time	65ms
+Operating Temperature Range	-20 → +70°C
+Number of Colours	16,777,216
+Depth	13mm
+Aspect Ratio	4:3

@@ -1,0 +1,21 @@
+﻿
+Diagonal Display Size	1.8in
+Interface Type		8 Data Bus
+Resolution	128 x 160pixels
+Touch Screen		No
+Viewing Area Dimensions	28.03 x 35.04mm
+Touch Screen Type	None
+Supply Voltage	3.6 V
+Backlight Type	LED
+Display Mode		Transmissive
+Display Matrix Technology		TFT
+Minimum Operating Temperature	-20°C
+Maximum Operating Temperature	+70°C
+Response Time	30ms
+Brightness	280cd/m²
+Power Supply Included	Yes
+Height	61.5mm
+Operating Temperature Range	-20 → +70°C
+Width		60mm
+Number of Colours	65,536
+Contrast Ratio			350:1

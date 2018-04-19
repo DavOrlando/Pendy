@@ -1,0 +1,17 @@
+Diagonal Display Size	20in
+Display Technology	LCD
+Maximum Resolution	1280 x 1024pixels
+Graphics Array Type	SVGA
+Number of Colours	16.7 Million
+Contrast Ratio	1000:1
+Response Time	10ms
+Interface Type	VGA
+External Dimensions	347.4 x 447 x 360mm
+Mounting Type	Panel Mount
+Brightness	250cd/m²
+Operating Temperature Range	0 → +50°C
+External Width	347.4mm
+Maximum Operating Temperature	+50°C
+Minimum Operating Temperature	0°C
+External Depth	447mm
+External Height	360mm

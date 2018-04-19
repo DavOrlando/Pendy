@@ -1,0 +1,15 @@
+Diagonal Display Size	10.4in
+Viewing Area Dimensions	211.2 x 158.4mm
+Maximum Resolution	800 x 600pixels
+Graphics Array Type	VGA
+Number of Colours	16.7 Million
+Contrast Ratio	600:1
+Interface Type	Composite, DVI, S-Video, VGA
+External Dimensions	260 x 200 x 45mm
+Mounting Type	Chassis Mount
+Brightness	230cd/m²
+External Width	260mm
+External Height	200mm
+External Depth	45mm
+Viewing Area Width	211.2mm
+Viewing Area Height	158.4mm

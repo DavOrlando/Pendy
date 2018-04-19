@@ -1,0 +1,29 @@
+Type	23" Wide Color TFT Active Matrix AH-IPS LED
+Display Area	23 inch
+Optimum Resolution	1920x1080
+Contrast Ratio	1,000:1 (typical), 30,000,000:1 (DCR)
+Brightness	250 cd/m2 (typ)
+Viewing Angles	178° horizontal, 178° vertical
+Response Time	4ms (GTG fastest), 7ms (GTG typical)
+Panel Surface	Anti-glare, hard-coating (3H)
+Light Source	White-light LED, 30,000 Hrs (Min.)
+Analog	RGB analog (0.7 / 1.0 Vp-p, 75 ohms)
+Digital	HDMI / DVI-D
+Frequency	Fh: 24-83KHz; Fv: 50-76Hz
+Sync	Separate Sync
+PC	PC compatibles(from VGA up to 1920x1080 non-interlaced)
+Mac	Up to 1920x1080
+Analog	15-pin mini D-sub (VGA)
+Digital	HDMI (with HDCP), DVI-D (with HDCP)
+Audio	Audio Out 3.5mm Jack (Blue)
+Audio In 3.5mm Jack (Green)
+Power	External Power Adapter
+Speakers	1.5-watt (x2)
+Voltage	AC 100–240V (universal), 50 / 60Hz
+Consumption	(ECO Mode) Standard: 27W (typ); Optimize: 23W (typ); Conserve: 20W (typ)
+Temperature	32–104°F (0–40°C)
+Humidity	20%-90% (non-condensing)
+Physical	532.6mm (width) x 409mm (height) x 179.5mm (depth)
+Net	3.9 kg
+Regulations	CE,CB, BSMI, SASO, C-tick, e-standby, KC, UL/cUL, FCC-B (including ICES003), NOM, GOST-R/Hygienic, UkrSEPRO, Erp, CCC, China Energy, EPEAT Silver, WEEE, RoHS, SVHC list
+Package Contents	VX2370Smh-LED / VX2370S-LED display, power cable, AC/DC adapter, VGA cable, HDMI cable, Quick Start Guide

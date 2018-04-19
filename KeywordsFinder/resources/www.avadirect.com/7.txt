@@ -1,0 +1,64 @@
+Precision to the Finest Detail: Professional 27” 16:9 2560 x 1440 WQHD LED-backlit Monitor
+Impeccable lifelike visuals with 27” 16:9 2560 x 1440 with 100% sRGB 
+178° wide-viewing angle
+Extensive connectivity with native WQHD content support with HDMI, 
+DisplayPort, and Dual-link DVI
+ASUS-exclusive QuickFit Virtual Scale and Splendid Video Intelligence Technology for true ‘what you see is what you get’
+Ergonomic tilt, swivel, pivot, and height adjustment plus smart cable management
+Display	Panel Size: Wide Screen 27.0"(68.47cm) 16:9
+Color Saturation : 100%(sRGB) 
+Panel Type : PLS Panel
+True Resolution : 2560x1440 (HDMI/DisplayPort/Dual-link DVI)
+1920x1080 (D-sub)
+Pixel Pitch : 0.233mm
+Brightness(Max) : 300 cd/m2
+ASUS Smart Contrast Ratio (ASCR) : 80000000:1
+Viewing Angle (CR≧10) : 178°(H)/178°(V)
+Response Time : 5ms (Gray to Gray)
+LCD ZBD Warranty : Yes
+Video Feature	Trace Free Technology
+SPLENDID Video Intelligence Technology
+SPLENDID Video Preset Modes : 5 Modes 
+Color Temperature Selection : 4 Modes
+Gamma adjustment : Yes (Support Gamma 2.2/1.8 )
+QuickFit (modes) : Yes (Letter/A4/Alignment Grid/Photo Modes)
+HDCP support
+Audio Features	Stereo Speakers : 3W x 2 Stereo RMS
+Convenient Hotkey	SPLENDID Video Preset Mode Selection
+Auto. Adjustment
+Brightness Adjustment
+Volume Adjustment
+Input Selection
+QuickFit
+I/O Ports	Signal Input : HDMI 1.4, D-Sub, DisplayPort 1.2, Dual-link DVI-D
+PC Audio Input : 3.5mm Mini-Jack 
+AV Audio Input : 1.4
+Earphone jack : 3.5mm Mini-Jack
+Signal Frequency	Analog Signal Frequency : 24~89 KHz(H)/ 50~75 Hz(V)
+Digital Signal Frequency : 24~89 KHz(H)/ 50~75 Hz(V)
+Power Consumption	Power Consumption(Typical):<33.2W*
+Power Saving Mode:<0.5W
+Power Off Mode:<0.5W
+Voltage: 100-240V, 50/60Hz
+Mechanical Design	Chassis Colors : Black
+Tilt : +20°~-5°
+Swivel : Yes
+Pivot : Yes
+Height Adjustment : Yes
+VESA Wall Mounting : 100x100mm
+Security	Kensington lock
+Dimensions	Phys. Dimension with Stand(WxHxD):643x552.3x218 mm
+Phys. Dimension without Stand(WxHxD):643x386.2x69.6(mm)(For VESA Wall Mount)
+Box Dimension(WxHxD):755x470x224 mm
+Weight	Net Weight (Esti.):8.8kg
+Gross Weight (Esti.):12.0kg
+Accessories	Dual-link DVI cable
+VGA cable
+Audio cable
+Power cord
+DisplayPort cable 
+Quick start guide
+HDMI cable 
+Warranty Card
+Regulation Approval	BSMI, CB, CCC, CE, C-Tick, FCC, Gost-R, ISO-9241-307, J-MOSS, PSE, RoHS, TCO6.0, UL/cUL, VCCI, WHQL (Windows 7)
+Note	*Based on Energy Star 6.0 standard

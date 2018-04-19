@@ -1,0 +1,19 @@
+Diagonal Display Size	15in
+Display Technology	LCD
+Maximum Resolution	1024 x 786pixels
+Graphics Array Type	XGA
+Number of Colours	262 K
+Contrast Ratio	500:1
+Response Time	12ms
+Interface Type	VGA
+Touch Screen	Yes
+Touch Screen Type	Resistive
+External Dimensions	398 x 314 x 58.7mm
+Mounting Type	Panel Mount
+Brightness	350cd/m²
+Minimum Operating Temperature	0°C
+External Depth	58.7mm
+Operating Temperature Range	0 → +50°C
+Maximum Operating Temperature	+50°C
+External Height	314mm
+External Width	398mm

@@ -1,15 +1,159 @@
-Minimum Operating Temperature
-Viewing Area Dimensions
-Maximum Resolution
-Diagonal Display Size
-Touch Screen Type
+Service & Support Details
+Mechanical Design
+Display Colors 
+External Height
+Dimensions & Weight Details
+Depth with Stand
+Input / Output
+Display Matrix Technology
+Interfaces/Ports
+Video Features
+OS Required
+Color
+VGA
+External Width
+Manufacturer Part #
+Horizontal Viewing Angle
+Power Consumption (On mode)
+Width with Stand
+Maximum Operating Temperature
+Min Operating Temperature
+Response Time
+Environmental Certification
+Graphics Array Type
+DisplayPort
+Width 
+ENERGY STAR Certified
+Display
+Color Gamut 
 Touch Screen
-Operating Temperature Range
+Power Consumption Sleep
+Convenient Hotkey
+Energy Class
+Number of Screens
+Diagonal Size
+Power Consumption
+Power Supply
+Colour Support
+Display Position Adjustments
+Energy Consumption per Year
+On / Off Switch
+Power Description
+Signal Frequency
+Dynamic Contrast Ratio 
+Performance
+Physical Characteristics
+Max Operating Temperature
+Mounting Type
+VGA 
+Power Consumption Stand by
+Flat Panel Mount Interface
+Voltage Required
 Viewing Area Height
+Height
 Number of Colours
 Display Technology
-Mounting Type
-Brightness
-Maximum Operating Temperature
+Interface Type
+Operating Power Consumption
+Resolution
+Manufacturer Part Number
+Humidity Range Operating
+External Depth
+Touch Screen Type
+Compatible with Windows 7
+Depth
+Vertical Refresh Rate
+Built-in Devices
+DisplayPort 
+Colour
+Weight (Approximate)
 Viewing Area Width
-Graphics Array Type
+Power Consumption Operational
+Color Supported
+Power Consumption Stand by / Sleep
+Maximum Resolution
+Native Resolution
+Compliant Standards
+Tilt Angle
+Dimensions
+Model
+Features
+DVI 
+Security
+General Information
+Type
+Output Power / Channel
+Technical Information
+Pixel Pitch
+Speakers
+HDMI
+Screen Size
+Miscellaneous
+Interfaces
+Series
+Max Brightness 
+MTBF
+Contrast Ratio 
+Height 
+Diagonal Display Size
+Audio
+Video
+Horizontal Refresh Rate
+Weight
+Maximum Color Depth
+HDCP Compliant 
+Screen Size 
+AC or DC Input Voltage
+Minimum Operating Temperature
+Aspect Ratio 
+Display Type
+Built-in Speakers 
+Additional Information
+Manufacturer
+Dimension (WxHxD mm)
+Regulation Approval
+Panel Type
+Operating Temperature Range
+Cables Included
+HDMI 
+Brand Name
+Environmentally Friendly
+Country of Origin
+Component 
+VESA Mount Compatible
+Localisation
+Power Supply Included
+External Dimensions
+VESA Mounting 
+Response Time 
+Vertical Viewing Angle
+Brightness
+Display Mode
+Product Type
+Native Resolution 
+Backlight Type
+Connectors/Ports
+Screen Mode
+Contrast Ratio
+Controls & Adjustments
+Pixel Per Inch
+Depth 
+Backlight Type 
+Supply Voltage
+Energy Star
+Dimensions (WxDxH)
+Other Information
+Viewing Area Dimensions
+Built-in Webcam 
+Aspect Ratio
+USB
+Backlight Technology
+DVI
+ENERGY STAR Qualified
+Viewable Size
+Height with Stand
+Width
+Screen Type 
+Accessory
+Pixel Pitch 
+Service & Support

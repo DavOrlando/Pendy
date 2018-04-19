@@ -1,0 +1,19 @@
+Diagonal Display Size	10.4in
+Display Technology	LCD
+Maximum Resolution	800 x 600pixels
+Graphics Array Type	SVGA
+Number of Colours	262 K
+Contrast Ratio	500:1
+Response Time	35ms
+Interface Type	VGA
+Touch Screen	Yes
+Touch Screen Type	Resistive
+External Dimensions	310 x 238 x 46.4mm
+Mounting Type	Open Frame
+Brightness	400cd/m²
+Minimum Operating Temperature	0°C
+Operating Temperature Range	0 → +50°C
+Maximum Operating Temperature	+50°C
+External Width	310mm
+External Height	238mm
+External Depth	46.4mm

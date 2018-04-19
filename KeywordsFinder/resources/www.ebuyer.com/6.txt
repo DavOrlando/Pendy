@@ -1,0 +1,38 @@
+General
+Native Resolution	Full HD (1080p) 1920 x 1080
+Brightness	250 cd/m²
+Aspect Ratio	16:9
+Display Type	LED-backlit LCD monitor / TFT active matrix
+Diagonal Size	24"
+Panel Type	TN
+Pixel Pitch	0.276 mm
+Contrast Ratio	1000:1 / 12000000:1 (dynamic)
+Colour Support	16.7 million colours
+Response Time	5 ms
+Horizontal Viewing Angle	170
+Vertical Viewing Angle	160
+Backlight Technology	LED backlight
+Controls & Adjustments	Colour temperature
+Features	HDCP, Senseye 3 Technology
+Colour	Glossy black
+Dimensions (WxDxH)	57.9 cm x 17.9 cm x 43.6 cm
+Weight	4.1 kg
+Environmental Standards
+ENERGY STAR Qualified	Yes
+ENERGY STAR Certified	Yes
+Connectivity
+Interfaces	VGA ¦ DVI-D
+Mechanical
+Display Position Adjustments	Tilt
+Tilt Angle	20
+Flat Panel Mount Interface	100 x 100 mm
+Miscellaneous
+Features	Security lock slot (cable lock sold separately)
+Compatible with Windows 7	"Compatible with Windows 7" software and devices carry Microsofts assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.
+Compliant Standards	TCO Displays 5.0
+Power
+Power Supply	Internal
+Power Consumption Operational	34 Watt
+Power Consumption Stand by / Sleep	0.3 Watt
+Power Consumption Stand by	0.3 Watt
+

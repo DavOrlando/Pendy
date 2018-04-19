@@ -1,0 +1,48 @@
+Display	Panel Size : Wide Screen 23.8"(60.5cm) 16:9
+True Resolution : 1920x1080
+Full HD 1080P : Yes
+Pixel Pitch : 0.2745mm
+Brightness(Max) : 250 cd/㎡
+ASUS Smart Contrast Ratio (ASCR) : 80000000:1
+Viewing Angle (CR≧10) : 178°(H)/178°(V)
+Response Time : 5ms (Gray to Gray)
+Display Colors : 16.7M
+Video Feature	Trace Free Technology
+SPLENDID Video Intelligence Technology
+SPLENDID Video Preset Modes : 6 Modes 
+Skin-Tone Selection : 3 Modes
+Color Temperature Selection : 4 Modes
+QuickFit (modes) : Yes (Letter/A4/Alignment Grid/Photo Modes)
+HDCP support
+Audio Features	Stereo Speakers : 2W x 2 Stereo RMS
+Convenient Hotkey	SPLENDID Video Preset Mode Selection
+Auto. Adjustment
+Brightness Adjustment
+Contrast Adjustment
+Volume Adjustment
+Input Selection
+QuickFit
+I/O Ports	Signal Input : HDMI/MHLx 2, D-Sub
+PC Audio Input : 3.5mm Mini-Jack 
+AV Audio Input : HDMI 
+Earphone jack : 3.5mm Mini-Jack
+Signal Frequency	Analog Signal Frequency : 30~80 KHz(H)/ 55~75 Hz(V)
+Digital Signal Frequency : 30~80 KHz(H)/ 55~75 Hz(V)
+Power Consumption	Power ON: < 23W*
+Power Saving Mode : < 0.5W
+Power Off Mode : < 0.5W
+Mechanical Design	Chassis Colors : Black
+Tilt : +20°~-5°
+VESA Wall Mounting : 100x100mm
+Security	Kensington lock
+Dimensions	Phys. Dimension with Stand(WxHxD) :554.5x393x194.2mm
+Box Dimension (WxHxD) : 610x476x130mm
+Weight	Net Weight (Esti.): 4.0 kg
+Gross Weight (Esti.):6.1 kg
+Accessories	VGA cable
+Audio cable
+Power cord
+Quick start guide
+HDMI-to-DVI cable (Optional)
+Warranty Card
+MHL cable (Optional)

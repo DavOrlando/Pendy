@@ -1,0 +1,22 @@
+Screen Type 	LCD
+Backlight Type 	LED
+Screen Size 	27 Inches
+Aspect Ratio 	Widescreen (16:9)
+Native Resolution 	1920x1080
+Response Time 	2 ms
+Pixel Pitch 	.311 mm (0.0 in)
+Dynamic Contrast Ratio 	10000000 :1
+Max Brightness 	300 cd/m^2
+Display Colors 	16.7M (real 8 bit)
+VESA Mounting 	100x100mm
+VGA 	Yes
+DVI 	Yes
+HDMI 	Yes
+DisplayPort 	Yes
+HDCP Compliant 	Yes
+Component 	No
+Built-in Speakers 	Yes
+Built-in Webcam 	Yes
+Width 	643 mm (25.3 in)
+Height 	460 mm (18.1 in)
+Depth 	220 mm (8.7 in)

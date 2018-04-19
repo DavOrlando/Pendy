@@ -1,0 +1,21 @@
+Screen Type 	LCD
+Backlight Type 	LED
+Screen Size 	21.5 Inches
+Aspect Ratio 	Widescreen (16:9)
+Native Resolution 	1920x1080
+Response Time 	5 ms
+Pixel Pitch 	.248 mm (0.0 in)
+Dynamic Contrast Ratio 	10000000 :1
+Max Brightness 	250 cd/m^2
+VESA Mounting 	100x100mm
+VGA 	Yes
+DVI 	Yes
+HDMI 	Yes
+DisplayPort 	No
+HDCP Compliant 	Yes
+Component 	No
+Built-in Speakers 	Yes
+Built-in Webcam 	No
+Width 	512.84 mm (20.2 in)
+Height 	385.96 mm (15.2 in)
+Depth 	201 mm (7.9 in)

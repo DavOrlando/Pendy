@@ -1,0 +1,20 @@
+Screen Type 	IGZO
+Backlight Type 	LED
+Screen Size 	31.5 Inches
+Aspect Ratio 	Widescreen (16:9)
+Native Resolution 	3840x2160
+Contrast Ratio 	800 :1
+Response Time 	8 ms
+Pixel Pitch 	.182 mm (0.0 in)
+Max Brightness 	350 cd/m^2
+VESA Mounting 	200x200mm
+VGA 	No
+DVI 	No
+HDMI 	Yes
+DisplayPort 	Yes
+HDCP Compliant 	Yes
+Built-in Speakers 	Yes
+Built-in Webcam 	No
+Width 	750 mm (29.5 in)
+Height 	489 mm (19.3 in)
+Depth 	256 mm (10.1 in)

@@ -1,0 +1,54 @@
+Display
+Static Contrast Ratio	5000:1
+Response Time	4 ms
+Color Support	16.7M
+Resolution	1920 x 1080
+Screen Size	32"
+Color Gamut (NTSC 1976)	72%
+Curvature	1800R
+Viewing Angle (Horizontal/Vertical)	178°/178°
+Display Type	VA
+Aspect Ratio	16:9
+Brightness	250cd/m2
+Dynamic Contrast Ratio	Mega ∞ DCR
+Model Number	LC32F391FWNXZA
+Features
+Gaming	Yes
+Eco Saving Plus	Yes
+Wall-Mount (Size mm)	75.0 x 75.0 mm
+Mac Compatible	Yes
+Windows Compatible	Yes
+Samsung MagicBright	Yes
+Samsung MagicUpscale	Yes
+Eye Saver Mode	Yes
+Flicker Free	Yes
+Image Size	Yes
+Key Features
+Wide Viewing Angle	Yes
+Inputs
+HDMI	1
+Headphones	Yes
+Display Port	1
+Power
+Type	External Adaptor
+Power Supply Type	AC 100~240V
+Power Consumption (Stand-by)	Less than 0.3W
+Power Consumption (Typical)	Max 35W
+Max Stand By Power (DPMS)	Less than 0.3W
+Accessories
+Other	Quick Setup Guide
+HDMI Cable	Yes
+Power Cable	Yes
+Weight (lb.)
+Product Weight With Stand	13.88 lbs
+Product Weight Without Stand	11.9 lbs
+Shipping Weight	18.51 lbs
+Design
+Color	hite High Glossy
+Stand Type	Simple
+Tilt	-2° ~ 22°
+Dimensions (W x H x D)
+Shipping Dimensions	31.7" x 7.3" x 19.8'
+Product Dimensions With Stand	28.5" x 20.6" x 9.8"
+Product Dimensions Without Stand	28.5" x 16.9" x 3.7"
+

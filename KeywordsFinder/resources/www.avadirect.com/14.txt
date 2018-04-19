@@ -1,0 +1,41 @@
+
+Display	Panel Size : Wide Screen 21.5"(54.6cm) 16:9
+True Resolution : 1920x1080
+Full HD 1080P : Yes
+Pixel Pitch : 0.248mm
+Brightness(Max) : 250 cd/m2
+ASUS Smart Contrast Ratio (ASCR) : 50000000:1
+Viewing Angle (CR≧10) : 170°(H)/160°(V)
+Response Time : 5ms
+Display Colors : 16.7M
+Video Feature	SPLENDID Video Intelligence Technology
+SPLENDID Video Preset Modes : 6 Modes 
+Skin-Tone Selection : 3 Modes
+Color Temperature Selection : 4 Modes
+HDCP support
+Convenient Hotkey	SPLENDID Video Preset Mode Selection
+Auto. Adjustment
+Brightness Adjustment
+Contrast Adjustment
+Input Selection
+I/O Ports	Signal Input : HDMI , D-Sub, DVI-D
+Earphone jack : 3.5mm Mini-Jack
+Signal Frequency	Analog Signal Frequency : 30~80 KHz(H)/ 55~75 Hz(V)
+Digital Signal Frequency : 30~80 KHz(H)/ 55~75 Hz(V)
+Power Consumption	Power On Mode:<25W
+Power Savinf Mode: <0.5W
+Power Off Mode: <0.5W
+Mechanical Design	Chassis Colors : Black
+Tilt : +25°~-5°
+VESA Wall Mounting : 100x100mm
+Security	Kensington lock
+Dimensions	Phys. Dimension with Stand(WxHxD): 514.1x385.5x200mm
+Box Dimension (WxHxD):566x 443 x130 mm
+Weight	Net Weight (Esti.): 3.1kg
+Gross Weight (Esti.):5.2kg
+Accessories	DVI cable
+VGA cable
+Power cord
+Quick start guide
+Warranty Card
+Compliance and Standards	EPEAT Gold Certified, Energy Star , UL/cUL, CB, CE, ErP, FCC, CCC, BSMI, Gost-R, C-Tick, VCCI, PSB, EK, J-MOSS, RoHS, WEEE, Windows Vista and Windows 7 WHQL 

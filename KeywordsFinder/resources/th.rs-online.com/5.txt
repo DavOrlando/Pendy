@@ -1,0 +1,19 @@
+Diagonal Display Size	15in
+Viewing Area Dimensions	304 x 228mm
+Display Technology	LCD
+Maximum Resolution	1024 x 768pixels
+Graphics Array Type	XGA
+Number of Colours	16.7 Million
+Contrast Ratio	450:1
+Response Time	20ms
+External Dimensions	388 x 296 x 65mm
+Mounting Type	Rack Mount
+Brightness	230cd/m²
+Minimum Operating Temperature	0°C
+Viewing Area Height	228mm
+Viewing Area Width	304mm
+External Height	296mm
+External Depth	65mm
+External Width	388mm
+Maximum Operating Temperature	+50°C
+Operating Temperature Range	0 → +50°C

@@ -1,0 +1,16 @@
+Diagonal Display Size	15in
+Viewing Area Dimensions	304.1 x 228.1mm
+Display Technology	LCD
+Maximum Resolution	1024 x 768pixels
+Graphics Array Type	VGA
+Number of Colours	16.7 Million
+Contrast Ratio	500:1
+Interface Type	Composite, DVI, S-Video, VGA
+External Dimensions	357.6 x 280.5 x 47.8mm
+Mounting Type	Open Frame
+Brightness	250cd/m²
+External Depth	47.8mm
+External Width	357.6mm
+Viewing Area Height	228.1mm
+Viewing Area Width	304.1mm
+External Height	

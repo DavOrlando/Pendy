@@ -1,0 +1,37 @@
+General
+Energy Consumption per Year	31 kWh
+Brightness	200 cd/m²
+Native Resolution	Full HD (1080p) 1920 x 1080
+Aspect Ratio	Widescreen
+Display Type	LED-backlit LCD monitor / TFT active matrix
+Energy Class	Class B
+Power Consumption (On mode)	21 W
+Diagonal Size	21.5"
+Panel Type	TN
+Contrast Ratio	600:1
+Colour Support	16.7 million colours
+Response Time	5 ms
+Horizontal Viewing Angle	90
+Vertical Viewing Angle	65
+Backlight Technology	LED backlight
+Features	Power off timer, game mode, Mega Dynamic Contrast Ratio, Eco Saving, Magic Upscale
+Colour	Black lacquer
+Dimensions (WxDxH)	51.16 cm x 17.7 cm x 38.52 cm - with stand
+Weight	2.9 kg
+Miscellaneous
+Compliant Standards	DDC-2B, RoHS
+Cables Included	1 x VGA cable
+Power
+Power Consumption Operational	22 Watt
+Voltage Required	AC 120/230 V (50/60 Hz)
+Power Supply	External
+Power Consumption Stand by	0.3 Watt
+Connectivity
+Interfaces	VGA ¦ HDMI
+Mechanical
+Display Position Adjustments	Tilt
+Tilt Angle	-1/+20
+Software / System Requirements
+OS Required	Apple MacOS, Windows 8.1
+Dimensions & Weight
+Dimensions & Weight Details	With stand - width: 51.16 cm - depth: 17.7 cm - height: 38.52 cm - weight: 2.9 kg ¦ Without stand - width: 51.16 cm - depth: 5.31 cm - height: 31.08 cm - weight: 2.65 kg

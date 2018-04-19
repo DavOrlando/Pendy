@@ -1,0 +1,16 @@
+Diagonal Display Size	9in
+Display Technology	LCD
+Maximum Resolution	800 x 600pixels
+Graphics Array Type	SVGA
+Number of Colours	262 K
+Contrast Ratio	250:1
+Interface Type	VGA
+External Dimensions	202.7 x 217 x 174mm
+Mounting Type	Panel Mount
+Brightness	250cd/m²
+Maximum Operating Temperature	+50°C
+External Depth	217mm
+Minimum Operating Temperature	0°C
+External Width	202.7mm
+Operating Temperature Range	0 → +50°C
+External Height	174mm

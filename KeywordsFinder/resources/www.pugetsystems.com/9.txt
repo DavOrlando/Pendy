@@ -1,0 +1,21 @@
+Screen Type 	LCD
+Backlight Type 	LED
+Screen Size 	19 Inches
+Aspect Ratio 	Widescreen (16:10)
+Native Resolution 	1440x900
+Response Time 	5 ms
+Pixel Pitch 	0.2835 mm (0.0 in)
+Dynamic Contrast Ratio 	10000000 :1
+Max Brightness 	250 cd/m^2
+VESA Mounting 	100x100mm
+VGA 	Yes
+DVI 	Yes
+HDMI 	No
+DisplayPort 	No
+HDCP Compliant 	Yes
+Component 	No
+Built-in Speakers 	Yes
+Built-in Webcam 	No
+Width 	444 mm (17.5 in)
+Height 	364 mm (14.3 in)
+Depth 	210 mm (8.3 in)

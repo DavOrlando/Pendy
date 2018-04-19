@@ -1,0 +1,10 @@
+Manufacturer	Apple
+Manufacturer Part #	A1081
+Performance
+Product Type	LCD Monitor
+Screen Size	20 inches
+Maximum Resolution	1680 x 1050
+Response Time	16 ms
+Connectors/Ports	DVI-D
+Other Information
+Color	Silver

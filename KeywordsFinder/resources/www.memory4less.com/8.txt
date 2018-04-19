@@ -1,0 +1,35 @@
+
+Manufacturer Part Number	LS23MURHB/ZA
+Brand Name	Samsung
+Product Type	LCD Monitor
+Technical Information
+Number of Screens	6
+Screen Size	23"
+Screen Mode	Full HD
+Response Time	8 ms
+Aspect Ratio	16:9
+Video
+Maximum Resolution	1920 x 1080
+Color Supported	16.7 Million Colors
+Contrast Ratio	3,000:1
+Brightness	300 Nit
+Interfaces/Ports
+DVI	Yes
+USB	Yes
+VGA	Yes
+DisplayPort	Yes
+Power Description
+Operating Power Consumption	276 W
+Physical Characteristics
+VESA Mount Compatible	Yes
+Color	Black
+Height with Stand	29.93"
+Width with Stand	62.43"
+Depth with Stand	12.09"
+Weight (Approximate)	95.02 lb
+Miscellaneous
+Energy Star	Yes
+Environmentally Friendly	Yes
+Environmental Certification	WEEE
+ENERGY STAR
+Country of Origin	China
