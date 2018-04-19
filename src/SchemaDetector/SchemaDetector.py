@@ -5,6 +5,7 @@ Created on 19 apr 2018
 '''
 
 import pandas as pd
+from bs4 import BeautifulSoup
 
 class SchemaDetector(object):
     '''
@@ -27,8 +28,9 @@ class SchemaDetector(object):
             with open(keywordsPath) as keywordsFile: 
                 self.keywords = set(keywordsFile.read().splitlines())
             print("Set of Keywords created")
-        except:
+        except Exception as e:
             print("A problem occurred during creation of keyword set")
+            print(e)
     
     
     def detectTable(self, htmlFile):
@@ -38,14 +40,22 @@ class SchemaDetector(object):
                 print(htmlFile+" contains table")
                 return True;
             return False;
-        except:
+        except Exception as e:
             print("A problem occurred during detection of tables or no table inside "+htmlFile)
+            print(e)
             return False;
 
     def detectList(self, htmlFile):
-            try:
-                lists = pd.read_html(htmlFile)
-                
-            except:
-                print("A problem occurred during detection of tables or no table inside page")
-                return False;
+        try:
+            with open(htmlFile,"r",encoding="utf8") as page: 
+                soup = BeautifulSoup(page.read(), 'lxml')
+            if(soup.find("ol")!=None or soup.find("ul") !=None):
+                print(htmlFile+" contains lists")
+                return True
+            else:
+                print("No lists inside "+htmlFile)
+                return False
+        except Exception as e:
+            print("A problem occurred during detection of lists inside "+htmlFile)
+            print(e)
+            return False

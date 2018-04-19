@@ -22,17 +22,17 @@ class SchemaDetectorTest(unittest.TestCase):
         self.assertEqual(set(specifiche),self.schemaDetector.keywords)
         
 
-    def testDetectTable_withTable(self):
-        self.assertTrue(self.schemaDetector.detectTable("../testResource/pageWithTable.html"))
-        
-    def testDetectTable_withoutTable(self):
-        self.assertFalse(self.schemaDetector.detectTable("../testResource/pageWithoutTable.html"))
+#     def testDetectTable_withTable(self):
+#         self.assertTrue(self.schemaDetector.detectTable("../testResource/pageWithTable.html"))
+#         
+#     def testDetectTable_withoutTable(self):
+#         self.assertFalse(self.schemaDetector.detectTable("../testResource/pageWithoutTable.html"))
 
-    def testDetectTable_withTable(self):
-        self.assertTrue(self.schemaDetector.detectTable("../testResource/pageWithTable.html"))
+    def testDetectList_withList(self):
+        self.assertTrue(self.schemaDetector.detectList("../testResource/pageWithList.html"))
         
-    def testDetectTable_withoutTable(self):
-        self.assertFalse(self.schemaDetector.detectTable("../testResource/pageWithoutTable.html"))
+    def testDetectTable_withoutList(self):
+        self.assertFalse(self.schemaDetector.detectList("../testResource/pageWithoutList.html"))
 
 
 if __name__ == "__main__":
