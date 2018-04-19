@@ -23,11 +23,16 @@ class SchemaDetectorTest(unittest.TestCase):
         
 
     def testDetectTable_withTable(self):
-        self.assertTrue(self.schemaDetector.detectTable(
-            "https://www.amazon.it/Sharp-Aquos-Smart-Harman-Kardon/dp/B0799CLDXG/ref=sr_1_1?s=electronics&ie=UTF8&qid=1524134218&sr=1-1"))
+        self.assertTrue(self.schemaDetector.detectTable("../testResource/pageWithTable.html"))
         
     def testDetectTable_withoutTable(self):
-        self.assertFalse(self.schemaDetector.detectTable("https://ogle.it"))
+        self.assertFalse(self.schemaDetector.detectTable("../testResource/pageWithoutTable.html"))
+
+    def testDetectTable_withTable(self):
+        self.assertTrue(self.schemaDetector.detectTable("../testResource/pageWithTable.html"))
+        
+    def testDetectTable_withoutTable(self):
+        self.assertFalse(self.schemaDetector.detectTable("../testResource/pageWithoutTable.html"))
 
 
 if __name__ == "__main__":

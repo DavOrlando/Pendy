@@ -31,24 +31,21 @@ class SchemaDetector(object):
             print("A problem occurred during creation of keyword set")
     
     
-    def detectTable(self, page):
+    def detectTable(self, htmlFile):
         try:
-            tables = pd.read_html(page)
+            tables = pd.read_html(htmlFile)
             if(len(tables)>0):
-                print(page+" contains table")
+                print(htmlFile+" contains table")
                 return True;
             return False;
         except:
-            print("A problem occurred during detection of tables or no table inside page")
+            print("A problem occurred during detection of tables or no table inside "+htmlFile)
             return False;
 
-    def detectTable(self, page):
+    def detectList(self, htmlFile):
             try:
-                tables = pd.read_html(page)
-                if(len(tables)>0):
-                    print(page+" contains table")
-                    return True;
-                return False;
+                lists = pd.read_html(htmlFile)
+                
             except:
                 print("A problem occurred during detection of tables or no table inside page")
                 return False;
