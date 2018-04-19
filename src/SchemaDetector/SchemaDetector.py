@@ -6,6 +6,7 @@ Created on 19 apr 2018
 
 import pandas as pd
 from bs4 import BeautifulSoup
+from _ast import keyword
 
 class SchemaDetector(object):
     '''
@@ -26,7 +27,7 @@ class SchemaDetector(object):
     def setInformationKeyword(self,keywordsPath):
         try:
             with open(keywordsPath,"r",encoding="utf8") as keywordsFile: 
-                self.keywords = set(keywordsFile.read().splitlines())
+                self.keywords = set([x.strip().lower() for x in keywordsFile.read().splitlines()])
             print("Set of Keywords created")
         except Exception as e:
             print("A problem occurred during creation of keyword set")
@@ -64,13 +65,64 @@ class SchemaDetector(object):
   
     
     def getScoreTable(self, table):
-        titles = table[0]
+        titles = [str(x).lstrip().lower() for x in list(table[0])]
+        print(titles)
         return len(list(set(titles).intersection(self.keywords)))
     
     def getBestTableScore(self, tables):
-        max = 0
-        for table in tables:
-            temp = self.getScoreTable(table)
-            if (max < temp):
-                max = temp
-        return max
+        return self.getScoreTable(self.getBestTable(tables))
+    
+    def getBestTable(self,tables):
+        indexBest = -1
+        best = 0
+        for index in range(0,len(tables)):
+            temp = self.getScoreTable(tables[index])
+            if(temp > best):
+                indexBest = index
+                best = temp
+        return tables[indexBest]
+             
+    def getListsFromPage(self,htmlFile):
+        lists=[]
+        with open(htmlFile,"r",encoding="utf8") as page: 
+                soup = BeautifulSoup(page.read(), 'lxml')
+        olLists = soup.findAll("ol")
+        ulLists = soup.findAll("ul")
+        if(olLists!=None):
+            lists+=olLists
+        if(ulLists!=None):
+            lists+=ulLists
+        return lists
+          
+             
+
+    def getKeywordsFromList(self, lista):
+        keywordsFromList = []
+        for li in lista.findAll("li"):
+            if (":" in li.text):
+                keywordsFromList.append(li.text.partition(':')[0].lstrip())
+            else:
+                keywordsFromList.append(li.text.partition(' ')[0].lstrip())
+        
+        keywordsFromList = [x.lower() for x in keywordsFromList]
+        return keywordsFromList
+
+    def getScoreList(self, lista):
+        keywordsFromList = self.getKeywordsFromList(lista)
+        return len(list(set(keywordsFromList).intersection(self.keywords)))
+    
+    def getBestListsScore(self, lists):
+        return self.getScoreList(self.getBestList(lists))
+
+    def getBestList(self,liste):
+        bestList=[]
+        best = 0
+        for lista in liste:
+            temp = self.getScoreList(lista)
+            if(temp >= best):
+                if(temp == best):
+                    bestList.append(lista)
+                else:
+                    bestList=lista
+                    best = temp
+        return bestList
