@@ -25,7 +25,7 @@ class SchemaDetector(object):
     
     def setInformationKeyword(self,keywordsPath):
         try:
-            with open(keywordsPath) as keywordsFile: 
+            with open(keywordsPath,"r",encoding="utf8") as keywordsFile: 
                 self.keywords = set(keywordsFile.read().splitlines())
             print("Set of Keywords created")
         except Exception as e:
@@ -35,8 +35,7 @@ class SchemaDetector(object):
     
     def detectTable(self, htmlFile):
         try:
-            tables = pd.read_html(htmlFile)
-            if(len(tables)>0):
+            if(len(self.getTablesFromPage(htmlFile))>0):
                 print(htmlFile+" contains table")
                 return True;
             return False;
@@ -59,3 +58,19 @@ class SchemaDetector(object):
             print("A problem occurred during detection of lists inside "+htmlFile)
             print(e)
             return False
+        
+    def getTablesFromPage(self,htmlFile):
+        return pd.read_html(htmlFile)
+  
+    
+    def getScoreTable(self, table):
+        titles = table[0]
+        return len(list(set(titles).intersection(self.keywords)))
+    
+    def getBestTableScore(self, tables):
+        max = 0
+        for table in tables:
+            temp = self.getScoreTable(table)
+            if (max < temp):
+                max = temp
+        return max
