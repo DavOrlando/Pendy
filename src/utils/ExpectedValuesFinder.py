@@ -18,11 +18,11 @@ class ExpectedValuesFinder(object):
         '''
         self.outputPath = outputPath
         if(os.path.exists(self.outputPath)==False):
-            with open(self.outputPath,"w") as expectedValuesFile: 
+            with open(self.outputPath,"w",encoding="utf8") as expectedValuesFile: 
                 json.dump({},expectedValuesFile)
     
     def updateExpectedValues(self,istanceDictionary):
-        with open(self.outputPath,"r+") as expectedValuesFile:
+        with open(self.outputPath,"r+",encoding="utf8") as expectedValuesFile:
             expectedValues = json.load(expectedValuesFile)
             for key in istanceDictionary:
                 keyWithoutSpaces = key.rstrip()

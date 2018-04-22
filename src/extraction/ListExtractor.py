@@ -4,7 +4,7 @@ Created on 20 apr 2018
 @author: ciroliviero
 '''
 
-import SchemaDetector.SchemaDetector as sd
+import detection.SchemaDetector as sd
 import json
 from builtins import str
 

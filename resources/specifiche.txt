@@ -1,145 +1,145 @@
-usb
-vga
-built-in speakers
-compliant standards
-physical characteristics
-supply voltage
-performance
-power supply included
-power consumption
-manufacturer part #
-vertical viewing angle
-mtbf
-width with stand
-energy star certified
-brand name
-display technology
-tilt angle
-weight (approximate)
-touch screen type
-manufacturer part number
-technical information
-native resolution
-display
-os required
-height with stand
-screen mode
-vesa mount compatible
-power consumption operational
-mechanical design
-brightness
-color
-hdmi
-connectors/ports
-display matrix technology
-country of origin
-screen size
-color gamut
-humidity range operating
-interfaces
-built-in webcam
 display mode
-operating power consumption
-width
-output power / channel
-touch screen
-backlight technology
-signal frequency
-additional information
-viewing area height
-power supply
-compatible with windows 7
+diagonal size
+supply voltage
 cables included
-pixel per inch
-energy star
-localisation
-min operating temperature
-miscellaneous
-built-in devices
-interfaces/ports
-colour support
-flat panel mount interface
-features
-type
-power consumption sleep
+height with stand
+external width
+panel type
+touch screen type
+weight (approximate)
+compliant standards
+power supply included
+screen size
+vga
 power description
-minimum operating temperature
-dimensions
-other information
-audio
-model
-number of screens
-dvi
 environmental certification
-vertical refresh rate
-viewing area dimensions
-external dimensions
-general information
-accessory
-number of colours
-depth
-dimension (wxhxd mm)
-viewing area width
-video
-viewable size
-energy star qualified
+other information
+speakers
 product type
-dynamic contrast ratio
-mounting type
-horizontal viewing angle
-response time
-pixel pitch
-input / output
-displayport
-horizontal refresh rate
-service & support
-hdcp compliant
+minimum operating temperature
+security
+graphics array type
+color
+built-in devices
+voltage required
+performance
+display type
+energy consumption per year
+native resolution
+colour
+series
+os required
+video features
+max brightness
+signal frequency
 dimensions (wxdxh)
 power consumption stand by / sleep
-max brightness
-diagonal size
-external depth
-regulation approval
-speakers
-energy class
-aspect ratio
-backlight type
-color supported
+service & support
+min operating temperature
 vesa mounting
-external width
-display type
-display position adjustments
-dimensions & weight details
-security
-manufacturer
-contrast ratio
-environmentally friendly
-service & support details
-ac or dc input voltage
-screen type
-graphics array type
-interface type
-weight
-maximum color depth
-resolution
-external height
-depth with stand
-on / off switch
-max operating temperature
-video features
-voltage required
-height
-series
-convenient hotkey
 power consumption (on mode)
-panel type
-component
-maximum resolution
-operating temperature range
-colour
-maximum operating temperature
-power consumption stand by
-energy consumption per year
+video
+interfaces
+ac or dc input voltage
+tilt angle
+external depth
+mounting type
 diagonal display size
+pixel pitch
+localisation
+flat panel mount interface
+colour support
+width
+maximum operating temperature
+max operating temperature
+manufacturer
+hdmi
+brightness
+physical characteristics
+display technology
+vesa mount compatible
+display matrix technology
+usb
+type
+hdcp compliant
+built-in speakers
+convenient hotkey
+country of origin
+contrast ratio
+viewable size
+general information
+depth
+vertical refresh rate
+power consumption sleep
+miscellaneous
+power supply
+weight
+audio
+screen type
+viewing area width
+backlight technology
+color gamut
+horizontal refresh rate
+compatible with windows 7
+input / output
+dimension (wxhxd mm)
+model
+additional information
+viewing area dimensions
+backlight type
+technical information
+built-in webcam
+viewing area height
+mtbf
+displayport
+dynamic contrast ratio
+output power / channel
+regulation approval
+humidity range operating
+number of screens
+operating temperature range
+screen mode
+service & support details
 controls & adjustments
+operating power consumption
+power consumption stand by
+dvi
+mechanical design
+display position adjustments
+dimensions
+brand name
+touch screen
+connectors/ports
+features
+manufacturer part #
+energy star
+resolution
+aspect ratio
+external height
+response time
+color supported
+maximum color depth
+power consumption operational
+environmentally friendly
+depth with stand
+display
+horizontal viewing angle
+vertical viewing angle
+manufacturer part number
+interfaces/ports
+energy star certified
+height
+maximum resolution
+width with stand
+accessory
+power consumption
+number of colours
+energy class
+pixel per inch
+component
+energy star qualified
+on / off switch
 display colors
+external dimensions
+interface type
+dimensions & weight details

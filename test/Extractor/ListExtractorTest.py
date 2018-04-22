@@ -4,7 +4,7 @@ Created on 20 apr 2018
 @author: ciroliviero
 '''
 import unittest
-from Extractor.ListExtractor import ListExtractor
+from extraction.ListExtractor import ListExtractor
 
 class TableEstractorTest(unittest.TestCase):
     extractor = ListExtractor()
