@@ -1,7 +1,20 @@
 
+'''
+Created on 19 apr 2018
+@author: MarcoZebi
+'''
+
+
 import os
 from bs4 import BeautifulSoup as bs
 import json
+
+
+
+class SchemaDetector(object):
+    '''
+
+    '''
 
 
 def estrKeys(pathHtml, Set, attributoClasse):
