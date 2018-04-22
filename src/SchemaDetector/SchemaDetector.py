@@ -7,6 +7,8 @@ Created on 19 apr 2018
 import pandas as pd
 from bs4 import BeautifulSoup
 from _ast import keyword
+from pip._vendor.distlib.locators import Page
+from pandas.plotting._tools import table
 
 class SchemaDetector(object):
     '''
@@ -61,12 +63,14 @@ class SchemaDetector(object):
             return False
         
     def getTablesFromPage(self,htmlFile):
-        return pd.read_html(htmlFile)
+        try:
+            return pd.read_html(htmlFile)
+        except:
+            return None
   
     
     def getScoreTable(self, table):
         titles = [str(x).lstrip().lower() for x in list(table[0])]
-        print(titles)
         return len(list(set(titles).intersection(self.keywords)))
     
     def getBestTableScore(self, tables):
@@ -83,29 +87,28 @@ class SchemaDetector(object):
         return tables[indexBest]
              
     def getListsFromPage(self,htmlFile):
-        lists=[]
         with open(htmlFile,"r",encoding="utf8") as page: 
                 soup = BeautifulSoup(page.read(), 'lxml')
-        olLists = soup.findAll("ol")
-        ulLists = soup.findAll("ul")
-        if(olLists!=None):
-            lists+=olLists
-        if(ulLists!=None):
-            lists+=ulLists
-        return lists
+        lista = soup.findAll("ol")
+        lista+=soup.findAll("ul")
+        print(lista)
+        return lista
           
              
 
     def getKeywordsFromList(self, lista):
-        keywordsFromList = []
-        for li in lista.findAll("li"):
-            if (":" in li.text):
-                keywordsFromList.append(li.text.partition(':')[0].lstrip())
-            else:
-                keywordsFromList.append(li.text.partition(' ')[0].lstrip())
-        
-        keywordsFromList = [x.lower() for x in keywordsFromList]
-        return keywordsFromList
+        try:
+            keywordsFromList = []
+            for li in lista.findAll("li"):
+                if (":" in li.text):
+                    keywordsFromList.append(li.text.partition(':')[0].lstrip())
+                else:
+                    keywordsFromList.append(li.text.partition(' ')[0].lstrip())
+            
+            keywordsFromList = [x.lower() for x in keywordsFromList]
+            return keywordsFromList
+        except:
+            return []
 
     def getScoreList(self, lista):
         keywordsFromList = self.getKeywordsFromList(lista)
@@ -113,6 +116,16 @@ class SchemaDetector(object):
     
     def getBestListsScore(self, lists):
         return self.getScoreList(self.getBestList(lists))
+
+    def calculateTableScore(self,page,tables):
+        if(self.detectTable(page)):
+            return self.getBestTableScore(tables)
+        else: return 0    
+
+    def calculateListsScore(self,page,lists):
+        if(self.detectList(page)):
+            return self.getBestListsScore(lists)
+        else: return 0    
 
     def getBestList(self,liste):
         bestList=[]
@@ -126,3 +139,25 @@ class SchemaDetector(object):
                     bestList=lista
                     best = temp
         return bestList
+
+
+    def detect(self,pages):        
+        listCount=0
+        tableCount=0
+        for page in pages:
+            listScore = self.calculateListsScore(page, self.getListsFromPage(page))
+            tableScore = self.calculateTableScore(page, self.getTablesFromPage(page))
+            if(listScore>tableScore):
+                listCount+=1
+            if(tableScore>listScore): 
+                tableCount+=1
+        print(tableCount)
+        print(listCount)
+        if (tableCount>listCount):
+            return "table"
+        if (listCount>tableCount):
+            return "list"
+        if(listCount==0 and tableCount==0):
+            return "text"
+        if(listCount==tableCount):
+            return "table"
