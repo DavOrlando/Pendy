@@ -11,7 +11,7 @@ import json
 
 
 
-class SchemaDetector(object):
+class KeyWordsFinder(object):
     '''
 
     '''
