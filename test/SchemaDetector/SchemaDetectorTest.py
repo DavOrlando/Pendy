@@ -53,15 +53,14 @@ class SchemaDetectorTest(unittest.TestCase):
         self.assertEqual(self.schemaDetector.getScoreList(lists[0]),0)
      
     def testGetBestListsScore(self):
-        lists = self.schemaDetector.getListsFromPage("../testResource/pageWithList.html")
+        lists = self.schemaDetector.getListsFromPage("../testResource/minimalListPage.html")
         self.schemaDetector.setInformationKeyword(PATH_KEYWORDS)
-        self.assertEqual(self.schemaDetector.getBestListsScore(lists), 10) 
+        self.assertEqual(self.schemaDetector.getBestListsScore(lists), 2) 
  
     def testDetectList(self):
         pages = []
         self.schemaDetector.setInformationKeyword(PATH_KEYWORDS)
         pages.append("/Users/davideorlando/Project/Pendy/test/testResource/minimalListPage.html")
- 
         print(self.schemaDetector.detect(pages))
      
     def testDetectTable(self):

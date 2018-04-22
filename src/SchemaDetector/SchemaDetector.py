@@ -91,7 +91,6 @@ class SchemaDetector(object):
                 soup = BeautifulSoup(page.read(), 'lxml')
         lista = soup.findAll("ol")
         lista+=soup.findAll("ul")
-        print(lista)
         return lista
           
              
@@ -120,45 +119,44 @@ class SchemaDetector(object):
     def calculateTableScore(self,page,tables):
         if(self.detectTable(page)):
             return self.getBestTableScore(tables)
-        else: return 0    
+        return 0    
 
     def calculateListsScore(self,page,lists):
         if(self.detectList(page)):
             return self.getBestListsScore(lists)
-        else: return 0    
+        return 0    
 
     def getBestList(self,liste):
-        bestList=[]
+        bestList=None
         best = 0
         for lista in liste:
+            print(lista)
             temp = self.getScoreList(lista)
-            if(temp >= best):
-                if(temp == best):
-                    bestList.append(lista)
-                else:
-                    bestList=lista
-                    best = temp
-        print("DIOOOO BOOO" + str(bestList))
+            print(str(temp))
+            if(temp>best):
+                bestList=lista
+                best = temp
         return bestList
 
 
     def detect(self,pages):        
-        listCount=0
-        tableCount=0
+        numberOfPagesWithList=0
+        numberOfPagesWithTables=0
         for page in pages:
-            listScore = self.calculateListsScore(page, self.getListsFromPage(page))
             tableScore = self.calculateTableScore(page, self.getTablesFromPage(page))
+            listScore = self.calculateListsScore(page, self.getListsFromPage(page))
+
             if(listScore>tableScore):
-                listCount+=1
+                numberOfPagesWithList+=1
             if(tableScore>listScore): 
-                tableCount+=1
-        print(tableCount)
-        print(listCount)
-        if (tableCount>listCount):
+                numberOfPagesWithTables+=1
+        print(numberOfPagesWithTables)
+        print(numberOfPagesWithList)
+        if (numberOfPagesWithTables>numberOfPagesWithList):
             return "table"
-        if (listCount>tableCount):
+        if (numberOfPagesWithList>numberOfPagesWithTables):
             return "list"
-        if(listCount==0 and tableCount==0):
+        if(numberOfPagesWithList==0 and numberOfPagesWithTables==0):
             return "text"
-        if(listCount==tableCount):
+        if(numberOfPagesWithList==numberOfPagesWithTables):
             return "table"

@@ -1,5 +1,5 @@
 {
     "Resolution": ["1920 x 1080"],
-    "Response time": ["5ms"],
-    "Interface": ["VGA","HDMI"]
+    "Response Time": ["5ms"],
+    "Interfaces": ["VGA","HDMI"]
 }
