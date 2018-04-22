@@ -22,7 +22,7 @@ class TableExtractor(object):
         '''
         self.detector = sd.SchemaDetector()
         'DA RIFATTORIZZARE'
-        self.detector.setInformationKeyword("../KeywordsFinder/resources/specifiche.txt")
+        self.detector.setInformationKeyword("../../resources/specifiche.txt")
     
     def extractSpecificationsFromPage(self,htmlFile):
         specificationDictionary = {}

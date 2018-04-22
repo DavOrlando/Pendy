@@ -138,6 +138,7 @@ class SchemaDetector(object):
                 else:
                     bestList=lista
                     best = temp
+        print("DIOOOO BOOO" + str(bestList))
         return bestList
 
 

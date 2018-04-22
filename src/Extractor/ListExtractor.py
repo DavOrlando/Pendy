@@ -6,6 +6,7 @@ Created on 20 apr 2018
 
 import SchemaDetector.SchemaDetector as sd
 import json
+from builtins import str
 
 class ListExtractor(object):
     '''
@@ -24,24 +25,23 @@ class ListExtractor(object):
         self.specification2ExpectedValues = self.loadSpecificationExpectedValuesDictionary("../../test/testResource/testExpectedValues.json")
         self.detector = sd.SchemaDetector()
         'DA RIFATTORIZZARE'
-        self.detector.setInformationKeyword("../KeywordsFinder/resources/specifiche.txt")
+        self.detector.setInformationKeyword("../../KeywordsFinder/resources/specifiche.txt")
     
     def loadSpecificationExpectedValuesDictionary(self,path):
         return json.load(open(path))
     
     def extractSpecificationsFromPage(self,htmlFile):
         specificationDictionary = {}
-        listWithSpecifications = self.detector.getBestList(
+        listsWithSpecifications = self.detector.getBestList(
             self.detector.getListsFromPage(htmlFile))
-        print(len(listWithSpecifications))
-        for li in listWithSpecifications.findAll("li"):
-            liAsString = li.text()
-            for key in self.specification2ExpectedValues:
-                if(liAsString.find(key)>-1):
-                    for value in self.specification2ExpectedValues[key]:
-                        if(liAsString.find(value)>-1):
-                            specificationDictionary[key] = value
-                            break
+        for listWithSpecifications in listsWithSpecifications:
+            for li in listWithSpecifications.findAll("li"):
+                for key in self.specification2ExpectedValues:
+                    if(str(li).find(key)>-1):
+                        for value in self.specification2ExpectedValues[key]:
+                            if(str(li).find(value)>-1):
+                                specificationDictionary[key] = value
+                                break
         return specificationDictionary
     
     def saveSpecificationDictionaryAsJson(self,dictionary,name,domainPath):
