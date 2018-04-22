@@ -29,9 +29,10 @@ def estrKeys(pathHtml, Set, attributoClasse):
                  cells = row.findChildren('td')
 
                  for cell in cells:
-                     value = cell.string
-                     Set.add(value)
-                     break
+                         value = cell.string
+                         if(value!= None):
+                             Set.add(value.lower().rstrip())
+                             break
     html.close()
 
 
@@ -63,7 +64,7 @@ def getdomini2classCss(path):
 
 
 if __name__ == "__main__":
-    path = "./KeywordsFinder/resources/"
+    path = "../../resources/"
 
     domini2classCss = getdomini2classCss(path)
     specSet = set()
